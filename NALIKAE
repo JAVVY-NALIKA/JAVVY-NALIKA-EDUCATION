@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Thank You – Javvy Nalika</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0fff0;
+      margin: 0;
+      padding: 2em;
+      text-align: center;
+    }
+    section {
+      background: #ffffff;
+      padding: 2em;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      max-width: 600px;
+      margin: auto;
+    }
+    h1 {
+      color: #006400;
+    }
+    p {
+      font-size: 1.2em;
+      color: #333;
+    }
+    .button {
+      display: inline-block;
+      margin-top: 2em;
+      padding: 10px 20px;
+      background: #006400;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<section>
+  <h1>🎉 Thank You!</h1>
+  <p>
+    Your support means the world to us. Because of you, more students will have access to free, high-quality education through the Javvy Nalika Online Teaching Platform.
+  </p>
+  <p>
+    We’re grateful for your generosity and belief in our mission. Together, we’re building a brighter future.
+  </p>
+  <a href="index.html" class="button">Back to Home</a>
+</section>
+
+</body>
+</html>
